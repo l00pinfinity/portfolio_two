@@ -1,5 +1,5 @@
 # portfolio_two
 
-# Screenshot
+# Screenshots
 
-![screenshot] (https://github.com/l00pinfinity/portfolio_two/blob/main/boit-droid.png)
+![App Screenshot](https://github.com/l00pinfinity/delani_studio/blob/main/%20Delani%20Studio.jpg)
